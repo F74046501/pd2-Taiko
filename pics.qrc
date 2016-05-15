@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>game.jpg</file>
+        <file>icon - start.png</file>
+        <file>icon bye.png</file>
+        <file>p6CWnaOamJ6b.jpg</file>
+        <file>covered.png</file>
+        <file>chrome_icon.png</file>
+        <file>ball.png</file>
+        <file>king_ball.png</file>
+        <file>pokemon_song.mp3</file>
+        <file>white</file>
+        <file>fire_dragon.png</file>
+        <file>pokemon_song.wma</file>
+        <file>pokemon_ss.mp3</file>
+    </qresource>
+</RCC>
